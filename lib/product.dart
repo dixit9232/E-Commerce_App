@@ -67,7 +67,7 @@ class _ProductsState extends State<Products> {
                               child: Text(
                                 products[index]['title'],
                                 style: TextStyle(
-                                  fontSize: 20,
+                                  fontSize: 15,
                                 ),
                                 softWrap: true,
                               ),
